@@ -1,20 +1,25 @@
 # RestfulCars
+A React/Phoenix/Elixir/PostgreSQL application showcasing a simple cars RESTful api.
 
-To start your Phoenix server:
+![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/827672/Screen%20Shot%202017-08-10%20at%204.45.50%20PM.png)
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
-  * Install Node.js dependencies with `cd assets && npm install`
-  * Start Phoenix endpoint with `mix phx.server`
+## Configuration
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+  * Install Elixir: https://elixir-lang.org/
+  * Install Phoenix: http://www.phoenixframework.org/
+  * Install PostgreSQL: https://www.postgresql.org/
+  * Install Node: https://nodejs.org/en/
 
-Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
+  To start your Phoenix server:
 
-## Learn more
+    * Install dependencies with `mix deps.get`
+    * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
+    * Install Node.js dependencies with `cd assets && npm install`
+    * Start Phoenix endpoint with `mix phx.server`
 
-  * Official website: http://www.phoenixframework.org/
-  * Guides: http://phoenixframework.org/docs/overview
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
+  Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+  
+## Screenshots
+![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/827672/Screen%20Shot%202017-08-10%20at%204.49.04%20PM.png)
+
+![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/827672/Screen%20Shot%202017-08-10%20at%204.49.46%20PM.png)

@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/app.css","css/phoenix.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;ACPA","file":"../priv/static/css/app.css","sourcesContent":["* { margin:0; padding:0; box-sizing:border-box; }\n\nbody {\n  height: 100%;\n  width: 100%;\n  background: #FDFEFF\n}\n",""]}
